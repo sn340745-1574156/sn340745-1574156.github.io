@@ -1,0 +1,93 @@
+body{
+background-color:white;
+background-image:url('round.png');
+}
+p{
+color:Black;
+}
+h3{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+
+}
+#Header{
+float:center;
+width:100%;
+height: 100px;
+background-image:url('dark-triangles.png');
+border: 5px solid #350e5b;
+
+}
+#Header h1{
+color:#f4bc42;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin:auto;
+text-align: center;
+font-size:500%;
+}
+#LeftNav{
+width: 400px;
+height: 400px;
+background-image:url('dark-triangles.png');
+margin: 0px auto 10px auto;
+float:left;
+text-align: center;
+padding-bottom: 8px;
+}
+#LeftNav p{
+color:white;
+
+}
+#LeftNav h3{
+    color:white;
+}
+#LeftNav ul{
+    color:black;
+}
+#LeftNav a{
+    color:white;
+}
+
+a {
+    color:#350e5b;
+    font-weight:bold;
+    font-size: 24px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#LeftNav img{
+
+}
+#LeftNav ul{
+
+}
+#LeftNav h3{
+
+}
+#Content{
+    width: 700px;
+   
+    margin: 0px auto 10px auto;
+    float:50%;
+    text-align: center;
+    padding-bottom: 8px;
+}
+#Footer{
+    width: 100%;
+    background-image:url('dark-triangles.png');
+    margin: 0px auto 10px auto;
+    float:right;
+    text-align: center;
+    padding-bottom: 8px;
+    
+    
+}
+#Footer h3{
+    color:white;
+}
+#Footer a{
+    color:white;
+}
+#Footer p{
+    color:white;
+}
